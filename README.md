@@ -17,6 +17,7 @@ This software allows to perform some tests to verify that the hardware and softw
 - timestamps of events when CircuitStatus has out of bound voltage,
 - timestamps of events when NodeStatus has ERROR health,
 - CircuitStatus and NodeStatus once per hour.
+- Servo resource (count of movement iterations)
 
 4. Allows to test simultaniously several devices (let's say 4 can-pwm nodes).
 
